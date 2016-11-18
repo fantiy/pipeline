@@ -1,2 +1,2 @@
-# pipeline-
+# pipeline
 c program pipeline learning
